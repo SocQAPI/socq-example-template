@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
   "endpointId": "TEMPLATE_ENDPOINT_ID",
-  "templateVersion": "1.0.0",
+  "templateVersion": "2.0.0",
   "method": "POST",
   "path": "/v1/platform/resource",
   "landingPage": "https://socq.ai/apis/platform/resource",
+  "docsPage": "https://docs.socq.ai/api-manual/platform/resource",
   "generatedFrom": "SocQAPI/socq-example-template"
 }
